@@ -4,6 +4,7 @@
 - [archive_20260507_101153](./archive_20260507_101153)
 - [b9fd07_26Adele-All-I-Ask-Live-at-NYC-youtube-CqJ9HLFtE0w-136-251](./b9fd07_26Adele-All-I-Ask-Live-at-NYC-youtube-CqJ9HLFtE0w-136-251)
 - [watch](./watch)
+- [win32](./win32)
 
 ---
 
